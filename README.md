@@ -1,0 +1,2 @@
+# GeoIPChecker
+Offline GeoIP Checker
